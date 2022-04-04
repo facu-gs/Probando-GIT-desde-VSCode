@@ -1,0 +1,48 @@
+.titulo-principal{
+    padding-left: 30px;
+}
+
+#banner{
+    width: 100%;
+}
+
+.principal{
+    background-color: #412a2a;
+    padding: 20px;
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+.texto-centrado{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+em strong{
+    color: #1f171f
+}  
+
+#mision{
+    font-size: 30px;
+    }
+
+.diferenciales{
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+#uList{
+    font-style: italic;
+    display: inline-block;
+    margin-right: 180px;
+    vertical-align: top;
+}
+
+#imagenDiferenciales{
+width: 60%;
+}
